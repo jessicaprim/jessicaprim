@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil ao meu perfil! 👋
+## Bem-vindo(a) ao meu perfil! 👋
 
 <p>• 🎓 Sou UX|UI & Product Design e estudante Front-end.</p>
 <p>• 💖 Apaixonada por desenhos, cores e tecnologia.</p>
